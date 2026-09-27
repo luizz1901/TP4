@@ -1,0 +1,51 @@
+body {
+  background-color: #000000;
+}
+
+.flashcard {
+  background-color: #4a0e17;
+  color: white;
+  padding: 60px 40px;
+  border-radius: 12px;
+  min-height: 400px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flashcard label {
+  font-weight: 600;
+  margin-bottom: 12px;
+}
+
+.flashcard input {
+  background-color: rgba(255, 255, 255, 0.05);
+  border: 1px solid #781d2a;
+  color: #ffffff;
+}
+
+.flashcard input::placeholder {
+  color: rgba(255, 255, 255, 0.5);
+  opacity: 1;
+}
+
+.flashcard input:focus {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: white;
+  border-color: #a82839;
+  box-shadow: none;
+}
+
+.navbar {
+  background-color: #8b0000 !important;
+}
+
+#preview {
+  max-width: 150px; 
+  max-height: 150px;
+  object-fit: cover;
+  display: none;
+  margin-top: 10px;
+  border: 2px solid #ccc;
+  border-radius: 150px;
+}

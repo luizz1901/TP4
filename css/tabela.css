@@ -1,0 +1,46 @@
+body {
+  background-color: #121212;
+  color: white;
+}
+
+.bg-dark-red {
+  background-color: #8b0000;
+}
+.table-dark {
+  background-color: #8b0000;
+  border-color: #600000;
+}
+
+.table {
+  color: #ffffff;
+  border-color: #333;
+}
+.table-hover tbody tr:hover {
+  background-color: #2a0000;
+  color: white;
+}
+
+.page-link {
+  background-color: #212121;
+  border-color: #444;
+  color: white;
+}
+.page-item.active .page-link {
+  background-color: #8b0000;
+  border-color: #8b0000;
+}
+
+.navbar {
+  background-color: #8b0000 !important;
+}
+.btn-outline-danger {
+  border-color: #8b0000;
+  color: #ff6b6b;
+}
+.btn-outline-danger:hover {
+  background-color: #8b0000;
+  color: white;
+}
+.table-dark {
+  background-color: #1a1a1a;
+}

@@ -1,0 +1,2 @@
+Data: 29/08/2026 16:55:37 
+	 Arquivo: C:\xampp\htdocs\TP4\php\conexao.php - Linha: 5 	 Erro: SQLSTATE[HY000] [1049] Unknown database 'pantufax' 

@@ -1,0 +1,12 @@
+Data: 31/08/2026 09:41:03 
+	 Arquivo: C:\xampp\htdocs\TP4\php\conexao.php - Linha: 5 	 Erro: SQLSTATE[HY000] [1049] Unknown database 'trabalho_pw2' 
+Data: 31/08/2026 09:41:03 
+	 Arquivo: C:\xampp\htdocs\TP4\php\conexao.php - Linha: 5 	 Erro: SQLSTATE[HY000] [1049] Unknown database 'trabalho_pw2' 
+Data: 31/08/2026 09:41:03 
+	 Arquivo: C:\xampp\htdocs\TP4\php\conexao.php - Linha: 5 	 Erro: SQLSTATE[HY000] [1049] Unknown database 'trabalho_pw2' 
+Data: 31/08/2026 09:41:03 
+	 Arquivo: C:\xampp\htdocs\TP4\php\conexao.php - Linha: 5 	 Erro: SQLSTATE[HY000] [1049] Unknown database 'trabalho_pw2' 
+Data: 31/08/2026 09:41:03 
+	 Arquivo: C:\xampp\htdocs\TP4\php\conexao.php - Linha: 5 	 Erro: SQLSTATE[HY000] [1049] Unknown database 'trabalho_pw2' 
+Data: 31/08/2026 09:41:03 
+	 Arquivo: C:\xampp\htdocs\TP4\php\conexao.php - Linha: 5 	 Erro: SQLSTATE[HY000] [1049] Unknown database 'trabalho_pw2' 
